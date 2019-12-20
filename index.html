@@ -1,0 +1,190 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>DirkHagen</title>
+    <base href="https://dirk-hagen.github.io/dev/">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="keywords" content="Angular, Angular 2, Angular 6, Angular 7, Angular 8, Angular 9, Material" />
+    <meta name="description" content="Dirk Hagen Softwareentwickler">
+    <meta name="author" content="Dirk Hagen">
+    <meta name="theme-color" content="#fff">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="manifest" href="./manifest.json">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <style>
+        app-root>.background {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #2d5ab4;
+        }
+
+        app-root>.background>.wrapper {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);            
+        }
+
+        .logo {
+            width: 100%;
+            height: 200px;
+            /* text-align: center; */
+        }
+
+        .img {
+            height: 170px;
+        }
+
+        .start-spinner {
+            color: #fff;
+            display: inline-block;
+            position: relative;
+            margin-left: -16px;
+            width: 32px;
+            height: 32px;
+            text-align: center;
+        }
+
+        .start-spinner div {
+            transform-origin: 32px 32px;
+            animation: start-spinner 1.2s linear infinite;
+        }
+
+        .start-spinner div:after {
+            content: " ";
+            display: block;
+            position: absolute;
+            top: 3px;
+            left: 29px;
+            width: 5px;
+            height: 14px;
+            border-radius: 20%;
+            background: #fff;
+        }
+
+        .start-spinner div:nth-child(1) {
+            transform: rotate(0deg);
+            animation-delay: -1.1s;
+        }
+
+        .start-spinner div:nth-child(2) {
+            transform: rotate(30deg);
+            animation-delay: -1s;
+        }
+
+        .start-spinner div:nth-child(3) {
+            transform: rotate(60deg);
+            animation-delay: -0.9s;
+        }
+
+        .start-spinner div:nth-child(4) {
+            transform: rotate(90deg);
+            animation-delay: -0.8s;
+        }
+
+        .start-spinner div:nth-child(5) {
+            transform: rotate(120deg);
+            animation-delay: -0.7s;
+        }
+
+        .start-spinner div:nth-child(6) {
+            transform: rotate(150deg);
+            animation-delay: -0.6s;
+        }
+
+        .start-spinner div:nth-child(7) {
+            transform: rotate(180deg);
+            animation-delay: -0.5s;
+        }
+
+        .start-spinner div:nth-child(8) {
+            transform: rotate(210deg);
+            animation-delay: -0.4s;
+        }
+
+        .start-spinner div:nth-child(9) {
+            transform: rotate(240deg);
+            animation-delay: -0.3s;
+        }
+
+        .start-spinner div:nth-child(10) {
+            transform: rotate(270deg);
+            animation-delay: -0.2s;
+        }
+
+        .start-spinner div:nth-child(11) {
+            transform: rotate(300deg);
+            animation-delay: -0.1s;
+        }
+
+        .start-spinner div:nth-child(12) {
+            transform: rotate(330deg);
+            animation-delay: 0s;
+        }
+
+        @keyframes start-spinner {
+            0% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0;
+            }
+        }
+    </style>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#fff">
+<link rel="stylesheet" href="lib.24bf1742e3764eb5de3c.css"><link rel="stylesheet" href="happy.7a129b9ab3907c0d1f69.css"></head>
+
+<body>
+    <app-root>
+        <div class="background">
+            <div class="wrapper">
+                <!-- <div class="logo">
+                    <img class="img" src="assets/images/logos/hg-logo.svg">
+                </div> -->
+                <noscript>
+                    <div style="font-size: 20px; color: black">
+                        German:
+                        <div style="font-size: 20px; color: red">
+                            <b>Bitte JavaScript</b> aktivieren um Dirk Hagen nutzen zu können.
+                        </div>
+                        <br>
+                        <br>
+                        English:
+                        <div style="font-size: 20px; color: red">
+                            Please enable <b>JavaScript</b> to continue using Dirk Hagen.
+                        </div>
+                        <br>
+                        <br>
+                    </div>
+                </noscript>
+                <div class="start-spinner">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </app-root>
+<script src="runtime.8bc574b3785fa8806731.js" defer></script><script src="polyfills.72e0377fd12ff4f119c7.js" defer></script><script src="main.f961187295995ad5edb3.js" defer></script></body>
+
+</html>

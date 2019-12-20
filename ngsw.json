@@ -1,0 +1,148 @@
+{
+  "configVersion": 1,
+  "timestamp": 1576852017237,
+  "index": "https://dirk-hagen.github.io/dev/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://dirk-hagen.github.io/dev/6.595db38ad26bdf7c3d88.js",
+        "https://dirk-hagen.github.io/dev/7.46e6f8dcc043536e0467.js",
+        "https://dirk-hagen.github.io/dev/8.bfa250a10a5091508c4d.js",
+        "https://dirk-hagen.github.io/dev/9.5ea34f024ad5833df1c0.js",
+        "https://dirk-hagen.github.io/dev/common.ce74b3bb5e42fc5aa4d5.js",
+        "https://dirk-hagen.github.io/dev/favicon.ico",
+        "https://dirk-hagen.github.io/dev/happy.7a129b9ab3907c0d1f69.css",
+        "https://dirk-hagen.github.io/dev/index.html",
+        "https://dirk-hagen.github.io/dev/lib.24bf1742e3764eb5de3c.css",
+        "https://dirk-hagen.github.io/dev/main.f961187295995ad5edb3.js",
+        "https://dirk-hagen.github.io/dev/polyfills.72e0377fd12ff4f119c7.js",
+        "https://dirk-hagen.github.io/dev/runtime.8bc574b3785fa8806731.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-128x128.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-144x144.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-152x152.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-192x192.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-384x384.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-512x512.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-72x72.png",
+        "https://dirk-hagen.github.io/dev/assets/icons/icon-96x96.png",
+        "https://dirk-hagen.github.io/dev/assets/images/app/outline-edit.svg",
+        "https://dirk-hagen.github.io/dev/assets/images/avatars/noavatar.png",
+        "https://dirk-hagen.github.io/dev/assets/images/avatars/profile.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/flags/england.png",
+        "https://dirk-hagen.github.io/dev/assets/images/flags/germany.png",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/2.png",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/DM.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/DM_France.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/MC2000.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/SEO_1.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/SEO_PC_Praxis_Qualitaet_gut_01_2011_180.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/TV_1.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/TV_6.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/TV_7.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/TV_9.gif",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/TWIN_2.gif",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/TWIN_8.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/as1.gif",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/as_pro.gif",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/av_06_press3.gif",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/av_es1.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/dm_shot_02.png",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/mc_screen_1.png",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/shop1.png",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/spa.png",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/tv3003.jpg",
+        "https://dirk-hagen.github.io/dev/assets/images/projects/visiten3-1024x578.png"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "fonts",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://dirk-hagen.github.io/dev/6.595db38ad26bdf7c3d88.js": "d9edbe3850a0b462e062dfcbed18eec543d690bd",
+    "https://dirk-hagen.github.io/dev/7.46e6f8dcc043536e0467.js": "d5d1f7350b58c92d2f6e1a8573821008cb23ff5f",
+    "https://dirk-hagen.github.io/dev/8.bfa250a10a5091508c4d.js": "c1a22d4c54b919aa20fe612326da074f5b2ecc6d",
+    "https://dirk-hagen.github.io/dev/9.5ea34f024ad5833df1c0.js": "d2ffb4f4aa6a5ac2eb7b3cd7053e3093c9179a64",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://dirk-hagen.github.io/dev/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://dirk-hagen.github.io/dev/assets/images/app/outline-edit.svg": "8fcc06fbe65420951e5cef1042e594041c83d2f9",
+    "https://dirk-hagen.github.io/dev/assets/images/avatars/noavatar.png": "1d9c7e75e43c2cdcfee98337c0fa31edee27ed8c",
+    "https://dirk-hagen.github.io/dev/assets/images/avatars/profile.jpg": "7ac5443e66163a34db930b5b69364ad909f2563a",
+    "https://dirk-hagen.github.io/dev/assets/images/flags/england.png": "7bbed3399d80c15dfee773ed3ebb7cacdeb268c8",
+    "https://dirk-hagen.github.io/dev/assets/images/flags/germany.png": "04148f89700db8af9cf9aeebb4ad825b2492d046",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/2.png": "9158b4e46003ccfb64c66da051741cc1461954e2",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/DM.jpg": "3da313d1cb75813f4ec51cd621cc49152df89574",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/DM_France.jpg": "5216c3fcc8028beee5fe10255e7cbee218467493",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/MC2000.jpg": "6f4e3034e68766591456890ac3ce5fa78e787af9",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/SEO_1.jpg": "c97593a3d07613a248a0d2c74492203ea06a04d9",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/SEO_PC_Praxis_Qualitaet_gut_01_2011_180.jpg": "550aaa6ecad265183b1748ab7ba8e200ad5571f5",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/TV_1.jpg": "eaf74e0383dde49294e67230ce775c39481a13e2",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/TV_6.jpg": "b156dcf83771de69a756596552eae3bc2c06a34f",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/TV_7.jpg": "482f2957a165b71984e65790c3dcd31beb12c9e5",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/TV_9.gif": "db21fadf340bcee95ec5e1129c713d59533a773a",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/TWIN_2.gif": "2619329a1f3bc6d45f8ad53c020240e1990b7920",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/TWIN_8.jpg": "e3750a1e1510f48c15ca6f206e38b5cba25e2710",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/as1.gif": "59ed36c6a8c93b70e599ffb1fabcdde48d049bc1",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/as_pro.gif": "eb9f1842ee70613bc34721606bf04e67bba1bd9e",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/av_06_press3.gif": "a3f6708e7bd43433e314c87e80c0be213da89b39",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/av_es1.jpg": "c620af0141155487e54f53a194ab6c5d7a94e5be",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/dm_shot_02.png": "52b1e33cde49f1afaae0c7125ada5809c7295282",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/mc_screen_1.png": "0c124216b698c2bda66901540109b31ef549cc56",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/shop1.png": "44fedb75a9f8aa3fbbaf887789e49c676745cf25",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/spa.png": "64561cf73371fed9327f73c110b39964bc3029c1",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/tv3003.jpg": "29c505c68ee539d7674815f7d71f8b0c13457051",
+    "https://dirk-hagen.github.io/dev/assets/images/projects/visiten3-1024x578.png": "6e54d51314a099c093f34959a8a5fbce78c385ab",
+    "https://dirk-hagen.github.io/dev/common.ce74b3bb5e42fc5aa4d5.js": "a7505814e4cf554f40d57495fbb45e22bf32f39b",
+    "https://dirk-hagen.github.io/dev/favicon.ico": "620f3547fb8e10af44b333829fb5e956e0b0f7d0",
+    "https://dirk-hagen.github.io/dev/happy.7a129b9ab3907c0d1f69.css": "c06add33660f92aeba540917927a9989e26eeb24",
+    "https://dirk-hagen.github.io/dev/index.html": "04da17d18d90b67d1c55e3595f14e4da2eb0b4d3",
+    "https://dirk-hagen.github.io/dev/lib.24bf1742e3764eb5de3c.css": "b8046e36d66f9200294813f975ac565cc76598d7",
+    "https://dirk-hagen.github.io/dev/main.f961187295995ad5edb3.js": "6dc1b65a75d6e2a0b3ca933ddc6ee7b10159f5ae",
+    "https://dirk-hagen.github.io/dev/polyfills.72e0377fd12ff4f119c7.js": "e3f9d640c5047b55de2803bdce6623828e2dd200",
+    "https://dirk-hagen.github.io/dev/runtime.8bc574b3785fa8806731.js": "8a89f19fbd5366e746b09e1b9b36c2dc4deab8f6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
