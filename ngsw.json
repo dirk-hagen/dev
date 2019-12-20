@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576852017237,
+  "timestamp": 1576853902634,
   "index": "https://dirk-hagen.github.io/dev/index.html",
   "assetGroups": [
     {
@@ -8,18 +8,18 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://dirk-hagen.github.io/dev/6.595db38ad26bdf7c3d88.js",
-        "https://dirk-hagen.github.io/dev/7.46e6f8dcc043536e0467.js",
-        "https://dirk-hagen.github.io/dev/8.bfa250a10a5091508c4d.js",
-        "https://dirk-hagen.github.io/dev/9.5ea34f024ad5833df1c0.js",
+        "https://dirk-hagen.github.io/dev/6.5b08a1385f6905d7e0f4.js",
+        "https://dirk-hagen.github.io/dev/7.8cdfe486da0e111a8b63.js",
+        "https://dirk-hagen.github.io/dev/8.7bc9e5fd42283eaa44ea.js",
+        "https://dirk-hagen.github.io/dev/9.b983c57d775f746e4092.js",
         "https://dirk-hagen.github.io/dev/common.ce74b3bb5e42fc5aa4d5.js",
         "https://dirk-hagen.github.io/dev/favicon.ico",
-        "https://dirk-hagen.github.io/dev/happy.7a129b9ab3907c0d1f69.css",
+        "https://dirk-hagen.github.io/dev/happy.7dda1e6aae88f15f14f6.css",
         "https://dirk-hagen.github.io/dev/index.html",
         "https://dirk-hagen.github.io/dev/lib.24bf1742e3764eb5de3c.css",
-        "https://dirk-hagen.github.io/dev/main.f961187295995ad5edb3.js",
+        "https://dirk-hagen.github.io/dev/main.12fcde05dbcb164ee99e.js",
         "https://dirk-hagen.github.io/dev/polyfills.72e0377fd12ff4f119c7.js",
-        "https://dirk-hagen.github.io/dev/runtime.8bc574b3785fa8806731.js"
+        "https://dirk-hagen.github.io/dev/runtime.e3dcf70802e9f56f4c72.js"
       ],
       "patterns": []
     },
@@ -79,10 +79,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://dirk-hagen.github.io/dev/6.595db38ad26bdf7c3d88.js": "d9edbe3850a0b462e062dfcbed18eec543d690bd",
-    "https://dirk-hagen.github.io/dev/7.46e6f8dcc043536e0467.js": "d5d1f7350b58c92d2f6e1a8573821008cb23ff5f",
-    "https://dirk-hagen.github.io/dev/8.bfa250a10a5091508c4d.js": "c1a22d4c54b919aa20fe612326da074f5b2ecc6d",
-    "https://dirk-hagen.github.io/dev/9.5ea34f024ad5833df1c0.js": "d2ffb4f4aa6a5ac2eb7b3cd7053e3093c9179a64",
+    "https://dirk-hagen.github.io/dev/6.5b08a1385f6905d7e0f4.js": "68ab101f7f349d3a9e10bad9bd1a1607b59243af",
+    "https://dirk-hagen.github.io/dev/7.8cdfe486da0e111a8b63.js": "831d2d9f6b5120650d5be40b3d55c1e39a53897c",
+    "https://dirk-hagen.github.io/dev/8.7bc9e5fd42283eaa44ea.js": "1b20b50e97e704f8d5ddecbca5945e66faa05b9b",
+    "https://dirk-hagen.github.io/dev/9.b983c57d775f746e4092.js": "562d248d8c25b4fa0256cedaade116c9a8a379bc",
     "https://dirk-hagen.github.io/dev/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://dirk-hagen.github.io/dev/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://dirk-hagen.github.io/dev/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -120,12 +120,12 @@
     "https://dirk-hagen.github.io/dev/assets/images/projects/visiten3-1024x578.png": "6e54d51314a099c093f34959a8a5fbce78c385ab",
     "https://dirk-hagen.github.io/dev/common.ce74b3bb5e42fc5aa4d5.js": "a7505814e4cf554f40d57495fbb45e22bf32f39b",
     "https://dirk-hagen.github.io/dev/favicon.ico": "620f3547fb8e10af44b333829fb5e956e0b0f7d0",
-    "https://dirk-hagen.github.io/dev/happy.7a129b9ab3907c0d1f69.css": "c06add33660f92aeba540917927a9989e26eeb24",
-    "https://dirk-hagen.github.io/dev/index.html": "04da17d18d90b67d1c55e3595f14e4da2eb0b4d3",
+    "https://dirk-hagen.github.io/dev/happy.7dda1e6aae88f15f14f6.css": "f66dac4f44c385e11604a710182de9649028be5f",
+    "https://dirk-hagen.github.io/dev/index.html": "bf7574c59b82bc9a8529ae8b3392b627f773bfc2",
     "https://dirk-hagen.github.io/dev/lib.24bf1742e3764eb5de3c.css": "b8046e36d66f9200294813f975ac565cc76598d7",
-    "https://dirk-hagen.github.io/dev/main.f961187295995ad5edb3.js": "6dc1b65a75d6e2a0b3ca933ddc6ee7b10159f5ae",
+    "https://dirk-hagen.github.io/dev/main.12fcde05dbcb164ee99e.js": "21ca9095cca1e08ca39cf0cc9ac161c30193a3cd",
     "https://dirk-hagen.github.io/dev/polyfills.72e0377fd12ff4f119c7.js": "e3f9d640c5047b55de2803bdce6623828e2dd200",
-    "https://dirk-hagen.github.io/dev/runtime.8bc574b3785fa8806731.js": "8a89f19fbd5366e746b09e1b9b36c2dc4deab8f6"
+    "https://dirk-hagen.github.io/dev/runtime.e3dcf70802e9f56f4c72.js": "a179514316596343e7998a63b7f438d58b1bbc7f"
   },
   "navigationUrls": [
     {
